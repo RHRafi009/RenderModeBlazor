@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenderMode", "RenderMode\RenderMode.csproj", "{9003C8EA-B86D-4E23-A0A9-D0BF88E7DD8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RenderMode", "RenderMode\RenderMode.csproj", "{9003C8EA-B86D-4E23-A0A9-D0BF88E7DD8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenderMode.Client", "RenderMode.Client\RenderMode.Client.csproj", "{563A0160-71C6-433C-BE4D-C6679FD0A418}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RenderMode.Client", "RenderMode.Client\RenderMode.Client.csproj", "{563A0160-71C6-433C-BE4D-C6679FD0A418}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
